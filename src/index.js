@@ -1,5 +1,3 @@
-import ".crs/styles.css";
-import axios from "axios";
 let apiKey = "57b2c40fdae71a6ba41d72685e3226e2";
 let now = new Date();
 let days = [
